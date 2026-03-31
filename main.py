@@ -12,4 +12,4 @@ if( age < 13 and  discount == 'Y'):
 elif ( age >= 65 or discount == 'Y'):
     print("티켓 요금 : 무료입니다.")
 else :
-    print("티켓 요금 : 15,000원입니다")
+    print("티켓 요금 : 15,000원입니다.")
